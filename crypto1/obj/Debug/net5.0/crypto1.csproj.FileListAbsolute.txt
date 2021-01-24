@@ -1,0 +1,16 @@
+D:\source\repos\crypto\crypto1\bin\Debug\net5.0\crypto1.exe
+D:\source\repos\crypto\crypto1\bin\Debug\net5.0\crypto1.deps.json
+D:\source\repos\crypto\crypto1\bin\Debug\net5.0\crypto1.runtimeconfig.json
+D:\source\repos\crypto\crypto1\bin\Debug\net5.0\crypto1.runtimeconfig.dev.json
+D:\source\repos\crypto\crypto1\bin\Debug\net5.0\crypto1.dll
+D:\source\repos\crypto\crypto1\bin\Debug\net5.0\ref\crypto1.dll
+D:\source\repos\crypto\crypto1\bin\Debug\net5.0\crypto1.pdb
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\crypto1.csprojAssemblyReference.cache
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\crypto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\crypto1.AssemblyInfoInputs.cache
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\crypto1.AssemblyInfo.cs
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\crypto1.csproj.CoreCompileInputs.cache
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\crypto1.dll
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\ref\crypto1.dll
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\crypto1.pdb
+D:\source\repos\crypto\crypto1\obj\Debug\net5.0\crypto1.genruntimeconfig.cache
